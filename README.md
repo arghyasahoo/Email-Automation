@@ -1,6 +1,6 @@
 # Email Automation
 
-This script fetches all emails from past 1 day and stores them in a text file. Use `cron` to make this executable everyday and Wallah!! all your mails are fetched and stored.
+This script fetches all emails from current day and stores them in a text file. Use `cron` to make this executable everyday and Wallah!! all your mails are fetched and stored.
 
 
 ## Usage
